@@ -1,0 +1,9 @@
+Dear ${PERSON_NAME},
+
+The price Fell!
+Check the amazon link: ${URL}.
+
+Have a great day, enjoy shopping.
+
+Yours Truly,
+Price Checker
