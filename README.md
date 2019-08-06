@@ -1,5 +1,7 @@
 # AmazonPriceTracker
-##As the price drops, user recieves an email
+
+## As the price drops, user recieves an email
+
 A python application to track changes in price of products on Amazon and mail the user as soon as the price is dropped.
 
 You can download the script and run it using "python scraper.py"
